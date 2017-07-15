@@ -1,0 +1,29 @@
+{
+    "name": "gridi-helpers-vertical-align",
+    "description": "",
+    "main": "",
+    "authors": [
+        "Przemysław Dziadek <przemyslaw.dziadek@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "scss",
+        "gridi",
+        "helpers",
+        "vertical",
+        "alignment"
+    ],
+    "homepage": "https://github.com/gridi-framework/gridi-helpers-vertical-align",
+    "ignore": [
+        "**/.*",
+        "**/*.md",
+        "**/*.js",
+        "**/*.json",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "gridi-framework-core": "*"
+    }
+}

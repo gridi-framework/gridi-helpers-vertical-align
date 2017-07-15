@@ -1,0 +1,5 @@
+@each $class, $value in $gridi-helpers-vertical-alignment-classes {
+    .#{$class} {
+        vertical-align: $value;
+    }
+}
